@@ -2,10 +2,10 @@
   "name": "goit-js-hw-11",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Shavursky/goit-js-hw-11.git",
+  "homepage": "https://shavursky.github.io/goit-js-hw-11/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-11.git/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-11/"
   },
   "repository": {
     "type": "git",
